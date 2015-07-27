@@ -1,0 +1,2 @@
+Yale Blue (hex: #0F4D92, rgb: 15, 77, 146) 
+California Gold (hex: #A98F64, rgb: 169, 143, 100) 
